@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
         child: Column(
           children: [
             SizedBox(height: 16),
-            Text('Himmy Zaky Mustakim\n2241760062', textAlign: TextAlign.center),
+            Text('Hilmy Zaky Mustakim\n2241760062', textAlign: TextAlign.center),
             SizedBox(height: 16),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
