@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mobile_kompen"
+        android:label="Sistem Kompen"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

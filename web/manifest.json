@@ -1,6 +1,6 @@
 {
-    "name": "mobile_kompen",
-    "short_name": "mobile_kompen",
+    "name": "sistem_kompen_app",
+    "short_name": "sistem_kompen_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
